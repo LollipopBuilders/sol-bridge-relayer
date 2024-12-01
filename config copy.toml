@@ -1,0 +1,8 @@
+l1_url = "http://127.0.0.1:8899"
+l2_url = "http://127.0.0.1:8899"
+watched_account = "ACiz7XLjTj5np4rvHwsci9AYMio2qY7BFVQwMF8tA9Em"
+wallet_path = "~/.config/solana/id.json"
+l1_program_id = "8ctZxWQRJ48yBAqFmpZqGn5UdBS2a42MvWLbbe75sic1"
+l2_program_id = "8TDycJBTEsyWV2w7vQnTmrePBaHHJDdDxxV3vekir2gC"
+fixed_account = "aieNnBovGFvWDAQ9Eq98ProBFLx4uZzWYPqGtFGV7g9"
+nonce_account = "7YAY53DcEiMMiEmtD63SmuYWzKUK1JRECtCT4Ehh6DKx"
